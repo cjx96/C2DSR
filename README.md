@@ -23,7 +23,7 @@ Scipy = 1.5.2
 
 Numpy = 1.19.1
 
-### Dasetsets
+### Datasets
 
 We find the information leak issue from existed datasets which released by previous works  (pi-net and MIFN), and our corrected versions are provided [here](https://drive.google.com/drive/folders/1xpnp6tH56xz8PF_xuTi9exEptmcvlAVU?usp=sharing).
 
